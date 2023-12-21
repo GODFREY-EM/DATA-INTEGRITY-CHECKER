@@ -1,8 +1,6 @@
 # DATA-INTEGRITY-CHECKER
 digital signature and Contents verification 
 
-Certainly! Here's a sample README file that you can use for your app:
-
 ---
 
  Data Integrity Checker
